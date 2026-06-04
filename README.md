@@ -64,11 +64,12 @@ To exit, type `/quit`
 
 **Chat**
 
-![Chat](screenshots/chat.png)
+![Chat_demo](screenshots/chat_demo.png)
+![Chat_demo](screenshots/chat_demo2.png)
 
 **Join and Leave Notifications**
 
-![Join Leave](screenshots/join_leave_notification.png)
+![Join Leave](screenshots/join&leave_notification.png)
 
 ## How It Works
 
